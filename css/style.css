@@ -1,0 +1,85 @@
+*{
+  margin: 0;
+  padding: 0;
+ }/* CSS Document */
+
+.master{
+	width: 965px;
+	height: 900px;
+	background-color:aqua;
+}
+
+
+
+.header{
+	width: 965px;
+	height: 300px;
+	   }
+.logo{
+	width: 200px;
+	height: 100px;
+    line-height: 100px;
+    }
+
+    
+.list{
+	list-style: none;
+    text-align: center;
+	margin-top: 150px;
+       }
+    .list li{
+    display: inline-block;
+    height: 50px;
+	line-height: 50px;
+    margin-left: 30px; 
+		 }
+    .list li a{
+	color:red;
+	text-decoration: none;
+    papadding-bottom: 40px;
+         }
+.body{
+	width: 965px;
+	height: 400px;
+    
+	}
+.box{
+	width: 230px;
+	height: 196px;
+   
+	float: left;
+	margin-left: 10px;
+	margin-top: 70px;
+    }
+.box img{
+	width: 230px;
+	height: 196px;
+   
+	text-align: center;
+	
+	margin-top: 20px;
+	
+    }
+.footer{
+	width: 965px;
+	height: 100px;
+   
+	}
+.footer1{
+	width: 20px;
+	height: 20px;
+ 
+	float: left;
+    margin-left: 200px;
+    margin-top: 25px;
+    
+    }
+.footer-a{
+	width: 20px;
+	height: 20px;
+     }
+
+	
+	
+
+
